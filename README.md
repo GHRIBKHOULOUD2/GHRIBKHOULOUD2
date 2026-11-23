@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Hi%2C%20I'm%20Khouloud&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20Engineering%20Student%20%7C%20Networking%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=560&lines=Networking+%7C+IoT+%7C+SDN;Cloud+Computing+%26+Docker;AI+for+Intelligent+Systems;Learning+and+building+every+day+%F0%9F%8C%B8" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=560&lines=Networking+%7C+IoT+%7C+SDN;AI+for+Intelligent+Systems;Learning+and+building+every+day+%F0%9F%8C%B8" alt="typing" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 ## 🌸 About Me
 
 -  Fourth-year student in **Computer Systems Engineering**
--  Interested in **computer networking, network engineering, and cybersecurity**
+-  Interested in **computer networking, network engineering**
 -  Exploring **IoT, SDN, and network automation**
 -  Learning how **AI** can support network monitoring and intelligent systems
 -  Always learning and building practical projects
@@ -40,7 +40,6 @@
 **Programming & Web**
 
 ![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF1493?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF85C0?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-DB7093?style=for-the-badge&logo=react&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-C71585?style=for-the-badge&logo=flask&logoColor=white)
@@ -64,14 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ghrib-khouloud&show_icons=true&hide_border=false&title_color=ff69b4&text_color=d6336c&icon_color=ff1493&bg_color=fff0f6&border_color=ffb6c1" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghrib-khouloud&layout=compact&title_color=ff69b4&text_color=d6336c&bg_color=fff0f6&border_color=ffb6c1" alt="top languages" />
-
-</div>
 
 
 <br/>
