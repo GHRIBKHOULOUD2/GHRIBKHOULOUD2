@@ -17,15 +17,15 @@
 
 ## 🌸 About Me
 
-- 🎓 Fourth-year student in **Computer Systems Engineering**
-- 🌐 Interested in **computer networking, network engineering, and cybersecurity**
-- 📡 Exploring **IoT, SDN, and network automation**
-- 🤖 Learning how **AI** can support network monitoring and intelligent systems
-- 🚀 Always learning and building practical projects
+-  Fourth-year student in **Computer Systems Engineering**
+-  Interested in **computer networking, network engineering, and cybersecurity**
+-  Exploring **IoT, SDN, and network automation**
+-  Learning how **AI** can support network monitoring and intelligent systems
+-  Always learning and building practical projects
 
 ---
 
-## 💖 Technologies & Tools
+##  Technologies & Tools
 
 **Networking**
 
@@ -45,14 +45,8 @@
 ![React](https://img.shields.io/badge/React-DB7093?style=for-the-badge&logo=react&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-C71585?style=for-the-badge&logo=flask&logoColor=white)
 
-**Platforms & Tools**
 
-![Linux](https://img.shields.io/badge/Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF85C0?style=for-the-badge&logo=docker&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-DB7093?style=for-the-badge&logo=vmware&logoColor=white)
-
-**Areas of Interest:** IoT · SDN · Network Automation · Cloud Computing · AI
+**Areas of Interest:** IoT · SDN · Network Automation · AI
 
 ---
 
@@ -60,29 +54,13 @@
 
 | Project | Description |
 | :-- | :-- |
-| 🌸 **NetTwin** | A network digital twin project combining network monitoring, SDN, IoT, and AI |
-| 💗 **Networking Labs** | Practical routing, switching, OSPF, BGP, and WLAN configurations |
-| 🩷 **Web Applications** | Projects built with technologies such as React and Flask |
+|  **NetTwin** | A network digital twin project combining network monitoring, SDN, IoT, and AI |
+|  **Networking Labs** | Practical routing, switching, OSPF, BGP, and WLAN configurations |
+|  **Web Applications** | Projects built with technologies such as React and Flask |
 
 ---
 
-## 📚 Currently Learning
 
-- 🌷 Advanced networking and network engineering
-- 🌷 Network automation and virtualization
-- 🌷 Cloud computing and Docker
-- 🌷 AI agents and their practical applications
-
----
-
-## 🌍 Languages
-
-| Language | Level |
-| :-- | :-- |
-| 🇩🇿 Arabic | Native |
-| 🇫🇷 French | Intermediate |
-| 🇬🇧 English | Improving |
-| 🇩🇪 German | Beginner |
 
 ---
 
@@ -102,7 +80,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ghrib--khouloud-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghrib-khouloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_your_profile-FF1493?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 <br/>
 
