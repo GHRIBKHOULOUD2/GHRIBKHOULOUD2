@@ -8,8 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ghrib-khouloud&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Ghrib-khouloud?style=for-the-badge&color=ff69b4&labelColor=ffc0cb)
 
 </div>
 
