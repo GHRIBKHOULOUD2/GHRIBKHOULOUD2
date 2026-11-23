@@ -73,9 +73,6 @@
 
 </div>
 
----
-
-![GitHub](https://img.shields.io/badge/GitHub-Ghrib--khouloud-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghrib-khouloud)
 
 <br/>
 
