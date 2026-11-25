@@ -43,7 +43,7 @@
 ![Flask](https://img.shields.io/badge/Flask-C71585?style=for-the-badge&logo=flask&logoColor=white)
 
 
-**Areas of Interest:** IoT · SDN · Network Automation · AI
+**Areas of Interest:** IoT · SDN · AI
 
 ---
 
