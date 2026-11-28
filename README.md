@@ -15,7 +15,7 @@
 
 ## 🌸 About Me
 
--  Fourth-year student in **Computer Systems Engineering**
+-  Fifth-year student in **Computer Systems Engineering**
 -  Interested in **computer networking, network engineering**
 -  Exploring **IoT, SDN, and network automation**
 -  Learning how **AI** can support network monitoring and intelligent systems
